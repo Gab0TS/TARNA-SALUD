@@ -22,3 +22,19 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+=======
+# Compiled Java
+*.class
+*.jar
+
+# Maven
+target/
+
+# NetBeans specific
+nbproject/private/
+nb-configuration.xml
+
+# macOS clutter
+.DS_Store
+**/.DS_Store
+>>>>>>> 5fcc3a6 (Estructura Inicial del proyecto | TARNA-SALUD)
